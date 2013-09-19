@@ -1,0 +1,7 @@
+﻿table.schedule thead tr th,
+table.schedule tbody tr td {
+    align-content: center;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+}
